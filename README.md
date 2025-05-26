@@ -41,4 +41,4 @@ I build scalable web apps, sleek user interfaces, and powerful backend systems. 
 
 ---
 
-💡 *“I code, therefore I am.”* — Let’s build something impactful together!
+🧠 *“Dubito ergo cogito, cogito ergo sum.”* — *“I doubt therefore I think, I think therefore I am.”*

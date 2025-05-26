@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ahakiri Cosmas Uke
 
-🎯 **Full Stack Software Engineer | AI Enthusiast**  
-With 4+ years of hands-on experience, I build **scalable web applications**, intuitive UIs, and robust backend systems. I thrive at the intersection of design, development, and deployment — always focused on delivering solutions that **drive real-world impact**.
+🎯 **Full Stack Software Engineer | AI Enthusiast
+I build scalable web apps, sleek user interfaces, and powerful backend systems. Passionate about crafting solutions that blend design, performance, and real-world impact, I thrive on turning ideas into clean, functional, and future-ready software**.
 
 ---
 
@@ -26,17 +26,18 @@ With 4+ years of hands-on experience, I build **scalable web applications**, int
 
 
 ### 📌 Projects Worth Checking
-- [📘 Digital Library System](https://github.com/Berr7Wa7ne/onlineLiberia)
-- [📗 CBT Exam Platform](https://github.com/VershimaKelvin/cbt-exam-platform)
+- [📘 Digital Library System](https://github.com/Berr7Wa7ne/onlineLibreria)
+- [📗 CBT Exam Platform](https://github.com/Berr7Wa7ne/CBT_for-Tertiary_Institutes)
 - [📙 Wellness Application](https://github.com/Berr7Wa7ne/wellness-application)
 ---
+
 
 ### 🌐 Let's Connect
 
 - **Email**: [ahakiricosmas@gmail.com](mailto:ahakiricosmas@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com)  
-- **GitHub**: [github.com/yourusername](https://github.com)  
-- **Portfolio**: [your-portfolio-link](https://your-portfolio.com)
+- **LinkedIn**: [linkedin.com/in/UkeCosmas](https://linkedin.com/in/ahakiri-uke-444619351/)  
+- **GitHub**: [github.com/UkeCosmas](https://github.com/Berr7Wa7ne)  
+- **Portfolio**: [My_Portfolio](https://my-portfolio-ruddy-mu-88.vercel.app/)
 
 ---
 

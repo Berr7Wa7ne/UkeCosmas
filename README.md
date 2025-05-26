@@ -42,3 +42,5 @@ I build scalable web apps, sleek user interfaces, and powerful backend systems. 
 ---
 
 🧠 *“Dubito ergo cogito, cogito ergo sum.”* — *“I doubt therefore I think, I think therefore I am.”*
+
+<!-- Trigger GitHub refresh -->
